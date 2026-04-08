@@ -1,59 +1,130 @@
-## Hi there 👋
+# Hi 👋 I'm Hoora Abbas Naqvi
 
-# Hi, I'm Hoora Abbas 👋
-
-🎓 B.Tech CSE @ Integral University (CGPA: 9.0)  
-🤖 AI / Machine Learning Enthusiast  
-📊 Interested in NLP, Data Streaming Algorithms, and AI Systems  
+🎓 B.Tech CSE @ Integral University (CGPA: 9.0)
+🤖 AI / Machine Learning Enthusiast
+🔬 Research Intern at IIT Hyderabad
 📍 India
 
 ---
 
+## 🚀 About Me
+
+* Passionate about **Artificial Intelligence, NLP, and Algorithms**
+* Interested in **AI systems, large-scale data processing, and ML applications**
+* Research experience in **Streaming Algorithms and Graph Theory**
+* Currently building **AI-powered applications and NLP systems**
+
+---
+
 ## 🔬 Research Experience
-- Research Intern – IIT Hyderabad (2025)  
-  Worked on **Algorithms for Streaming Datasets**  
-  Explored Count Sketch, Count Min Sketch, JL Transform.
 
-- Research Intern – IIT Hyderabad (2024)  
-  Studied **Graph Theory & Extremal Combinatorics**  
-  Focus on Pigeonhole Principle, Schur’s Theorem, Turán’s Theorem.
+**IIT Hyderabad — SURE Research Intern (2025)**
+Worked on **Algorithms for Streaming Datasets**
 
----
+Topics explored:
 
-## 🚀 Projects
+* Count Sketch
+* Count-Min Sketch
+* Johnson–Lindenstrauss Transform
+* Feature Hashing
 
-### 🧠 Mental Health Chatbot (MHC AI)
-Full stack NLP system using **BERT + RoBERTa + BiLSTM**  
-Tech: Next.js, Flask, MongoDB, HuggingFace
+**IIT Hyderabad — Research Intern (2024)**
+Studied **Graph Theory & Extremal Combinatorics**
 
-### 📊 Moodify – Sentiment Analysis
-Sentiment classifier using **RoBERTa model**  
-Tech: React.js, Flask, HuggingFace
+Key topics:
 
-### 🤖 Rebot – AI Research Assistant
-PDF Question Answering system using **RAG pipeline**  
-Tech: LangChain, Gemini API, ChromaDB, Streamlit
+* Pigeonhole Principle
+* Schur’s Theorem
+* Turán’s Theorem
+* Erdős–Szekeres Theorem
+* Hall’s Theorem
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 AI / ML Projects
 
-Languages  
-Python | Java | SQL
+### Mental Health Chatbot (MHC AI)
 
-Frameworks  
-React.js | Flask | Express.js
+Full-stack AI system for mental health text classification.
 
-AI / ML  
-HuggingFace | LangChain | Transformers | NLP
+Tech Stack
+Next.js • Flask • MongoDB • HuggingFace
 
-Tools  
-Git | GitHub | VS Code
+Models
+BERT • RoBERTa • BiLSTM
+
+Features
+
+* Multi-class mental health classification
+* Emotion detection
+* Feedback loop for model improvement
+
+---
+
+### Moodify — Sentiment Analysis
+
+NLP web application that classifies text sentiment.
+
+Tech Stack
+React.js • Flask • HuggingFace • TailwindCSS
+
+Model
+cardiffnlp/twitter-roberta-base-sentiment
+
+Features
+
+* Real-time sentiment prediction
+* Clean UI
+* API-based architecture
+
+---
+
+### Rebot — AI Research Assistant
+
+AI chatbot that answers questions from **PDF documents**.
+
+Tech Stack
+Python • Streamlit • LangChain • Gemini API • ChromaDB
+
+Features
+
+* Retrieval-Augmented Generation (RAG)
+* PDF document understanding
+* Source citation with page numbers
+
+---
+
+## 🛠 Technical Skills
+
+Languages
+Python • Java • SQL
+
+Frameworks
+React.js • Flask • Express.js
+
+AI / ML
+Transformers • HuggingFace • LangChain • NLP
+
+Tools
+Git • GitHub • VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hooraa01\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hooraa01\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/hoora-abbas  
-LeetCode: https://leetcode.com  
-Email: abbashoora@gmail.com
+LinkedIn
+https://linkedin.com/in/hoora-abbas-naqvi-a78495256
+
+LeetCode
+https://leetcode.com/u/hooraa_8/
+
+Email
+[abbashoora@gmail.com](mailto:abbashoora@gmail.com)
