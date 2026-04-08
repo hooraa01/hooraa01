@@ -28,13 +28,6 @@ Currently exploring streaming algorithms, large language models, and AI-powered 
 
 ---
 
-## Contribution snake
-
-![snake dark](https://raw.githubusercontent.com/hooraa01/hooraa01/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake light](https://raw.githubusercontent.com/hooraa01/hooraa01/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
----
-
 ## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
