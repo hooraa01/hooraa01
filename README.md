@@ -22,14 +22,15 @@ Research experience in:
 
 ## 🚀 Technical Skills
 
-![Python](https://img.shields.io/badge/Python-blue)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-green)
-![NLP](https://img.shields.io/badge/NLP-orange)
-![React](https://img.shields.io/badge/React-blue)
-![Flask](https://img.shields.io/badge/Flask-black)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow)
-![LangChain](https://img.shields.io/badge/LangChain-purple)
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
+| Languages | Frameworks & Libraries | Databases | Tools & Platforms | AI / ML     |
+| --------- | ---------------------- | --------- | ----------------- | ----------- |
+| Python    | React.js               | MongoDB   | Git               | NLP         |
+| Java      | Flask                  | MySQL     | GitHub            | HuggingFace |
+| SQL       | Express.js             |           | VS Code           | BERT        |
+|           | Next.js                |           | Postman           | RoBERTa     |
+|           | Tailwind CSS           |           | Vercel            | LangChain   |
+
+---
 
 ## 🔬 Research Experience
 
@@ -128,6 +129,11 @@ https://linkedin.com/in/hoora-abbas-naqvi-a78495256
 
 LeetCode
 https://leetcode.com/u/hooraa_8/
+
+Email
+[abbashoora@gmail.com](mailto:abbashoora@gmail.com)
+
+
 
 Email
 [abbashoora@gmail.com](mailto:abbashoora@gmail.com)
