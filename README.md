@@ -1,37 +1,57 @@
-# Hi 👋 I'm Hoora Abbas Naqvi
+<h1 align="center">Hello, I'm Hoora Abbas Naqvi 👋</h1>
 
-🎓 B.Tech CSE @ Integral University (CGPA: 9.0)
-🤖 AI / Machine Learning Enthusiast
-🔬 Research Intern at IIT Hyderabad
-📍 India
+<p align="center">
+AI / ML Enthusiast • Research Intern @ IIT Hyderabad • B.Tech CSE
+</p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 Professional Summary
 
-* Passionate about **Artificial Intelligence, NLP, and Algorithms**
-* Interested in **AI systems, large-scale data processing, and ML applications**
-* Research experience in **Streaming Algorithms and Graph Theory**
-* Currently building **AI-powered applications and NLP systems**
+Final-year Computer Science student with strong interest in **Artificial Intelligence, NLP, and scalable ML systems**.
+Experienced in building **AI-powered applications and full-stack systems** using modern technologies.
+
+Research experience in:
+
+* Streaming Algorithms
+* Graph Theory
+* Large-scale data processing
+* Natural Language Processing
+
+---
+
+## 🚀 Technical Skills
+
+| Languages | Frameworks & Libraries | Databases | Tools & Platforms | AI / ML     |
+| --------- | ---------------------- | --------- | ----------------- | ----------- |
+| Python    | React.js               | MongoDB   | Git               | NLP         |
+| Java      | Flask                  | MySQL     | GitHub            | HuggingFace |
+| SQL       | Express.js             |           | VS Code           | BERT        |
+|           | Next.js                |           | Postman           | RoBERTa     |
+|           | Tailwind CSS           |           | Vercel            | LangChain   |
 
 ---
 
 ## 🔬 Research Experience
 
-**IIT Hyderabad — SURE Research Intern (2025)**
+### IIT Hyderabad — SURE Research Intern (2025)
+
 Worked on **Algorithms for Streaming Datasets**
 
-Topics explored:
+Key concepts explored:
 
 * Count Sketch
-* Count-Min Sketch
-* Johnson–Lindenstrauss Transform
+* Count Min Sketch
+* Johnson-Lindenstrauss Transform
 * Feature Hashing
 
-**IIT Hyderabad — Research Intern (2024)**
-Studied **Graph Theory & Extremal Combinatorics**
+---
 
-Key topics:
+### IIT Hyderabad — Research Intern (2024)
+
+Studied **Advanced Graph Theory & Extremal Combinatorics**
+
+Topics covered:
 
 * Pigeonhole Principle
 * Schur’s Theorem
@@ -41,31 +61,31 @@ Key topics:
 
 ---
 
-## 🧠 AI / ML Projects
+## ⭐ Featured Projects
 
-### Mental Health Chatbot (MHC AI)
+### 🧠 Mental Health Chatbot (MHC AI)
 
-Full-stack AI system for mental health text classification.
+AI system for mental health classification using hybrid NLP models.
 
-Tech Stack
+Tech
 Next.js • Flask • MongoDB • HuggingFace
 
 Models
-BERT • RoBERTa • BiLSTM
+BERT • RoBERTa • Bi-LSTM
 
 Features
 
-* Multi-class mental health classification
-* Emotion detection
-* Feedback loop for model improvement
+* Multi-class mental health detection
+* Semantic + emotional understanding
+* Feedback loop for improving predictions
 
 ---
 
-### Moodify — Sentiment Analysis
+### 📊 Moodify — Sentiment Analysis
 
-NLP web application that classifies text sentiment.
+Full-stack NLP application that classifies user text into sentiment categories.
 
-Tech Stack
+Tech
 React.js • Flask • HuggingFace • TailwindCSS
 
 Model
@@ -74,39 +94,23 @@ cardiffnlp/twitter-roberta-base-sentiment
 Features
 
 * Real-time sentiment prediction
-* Clean UI
-* API-based architecture
+* REST API architecture
+* Clean UI design
 
 ---
 
-### Rebot — AI Research Assistant
+### 🤖 Rebot — AI Research Assistant
 
-AI chatbot that answers questions from **PDF documents**.
+AI chatbot that answers questions from uploaded **PDF documents**.
 
-Tech Stack
+Tech
 Python • Streamlit • LangChain • Gemini API • ChromaDB
 
 Features
 
 * Retrieval-Augmented Generation (RAG)
-* PDF document understanding
+* Semantic document search
 * Source citation with page numbers
-
----
-
-## 🛠 Technical Skills
-
-Languages
-Python • Java • SQL
-
-Frameworks
-React.js • Flask • Express.js
-
-AI / ML
-Transformers • HuggingFace • LangChain • NLP
-
-Tools
-Git • GitHub • VS Code
 
 ---
 
@@ -118,7 +122,7 @@ Git • GitHub • VS Code
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 LinkedIn
 https://linkedin.com/in/hoora-abbas-naqvi-a78495256
